@@ -8,5 +8,5 @@ class person{
         this.income = income;
     }
 }
-const Sunel = new person ("Sunel",24,"B.Tech","Chennai","hcl","💵💵💵");
+const Sunel = new person ("Sunel",24,"Chennai","B.Tech","hcl","💵💵💵");
 console.log(Sunel, typeof Sunel);
